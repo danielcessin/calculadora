@@ -133,6 +133,20 @@ public class Anuncio {
 	public void setValorInvestido(Double valorInvestido) {
 		this.valorInvestido = valorInvestido;
 	}
+
+	@Override
+	public String toString() {
+		return "Anuncio \n"
+				+ "NomeAnuncio=" + nomeAnuncio + "\n, "
+				+ "Cliente=" + cliente + ",\n"
+				+ "DataInicio=" + dataInicio+ ",\n"
+				+ "DataFim=" + dataFim + ",\n"
+				+ "InvestimentoPorDia=" + investimentoPorDia + ",\n"
+				+ "TotalVisualizacoes="+ totalVisualizacoes + ", \n"
+				+ "QuantidadeClicks=" + quantidadeClicks + ",\n "
+				+ "QuantidadeCompartilhamentos="+ quantidadeCompartilhamentos + ",\n"
+				+ "ValorInvestido=" + valorInvestido + "]";
+	}
 	
 	
 	
