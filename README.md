@@ -23,4 +23,4 @@ Projeto em Java, feito no Eclipse, para acomodar as classes e estruturas respons
 
 ## 👔 Desenvolvedor
 
-Daniel Aguiar Cessin
+Daniel Aguiar Cessin - https://www.linkedin.com/in/daniel-cessin-050735140/
